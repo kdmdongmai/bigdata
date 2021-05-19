@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="com.sun.jdi.connect.Connector.Argument"/>
-    <fullyQualifiedTypeName name="com.sun.tools.javac.launcher.Main"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="com.sun.jdi.connect.Connector.Argument"/>
+<fullyQualifiedTypeName name="com.sun.tools.javac.launcher.Main"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="com.lec.Ex01_Employee.SalaryEmployee"/>
+<fullyQualifiedTypeName name="com.lec.Ex01_Employee.Employee"/>
+<fullyQualifiedTypeName name="com.lec.Ex01_Employee.HourlyEmployee"/>
+<fullyQualifiedTypeName name="java.io.ObjectInputStream.GetField"/>
 </qualifiedTypeNameHistroy>
